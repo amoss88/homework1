@@ -1,4 +1,4 @@
-# homework1
+# HW1
 Acceptance Criteria 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
